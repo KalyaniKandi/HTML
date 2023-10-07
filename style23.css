@@ -1,0 +1,25 @@
+div{
+    padding: 15px;
+    margin: 15px;
+    width: 25%;
+    text-align: center;
+    color: white;
+    display:inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div1{
+    background-image: linear-gradient(90deg,teal,green);
+}
+#div2{
+    background-image: linear-gradient(90deg,rgb(150, 83, 238),rgb(163, 112, 150));
+}
+#div3{
+    background-image: linear-gradient(90deg,rgb(128, 0, 0),rgb(153, 55, 137));
+}
+button{
+    background-image: linear-gradient(90deg,blue,green);
+    color: white;
+    width: 90px;
+    border: none;
+    border-radius: 20px;
+}
